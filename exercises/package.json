@@ -1,0 +1,17 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./fizzbuzz/test.js"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "stephen grider",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
